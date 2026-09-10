@@ -1,8 +1,8 @@
 class Thedrain < Formula
   desc "See what Claude actually did for you today — tokens, cost, commits, lines"
   homepage "https://github.com/Azamatfg/thedrain"
-  url "https://github.com/Azamatfg/thedrain/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "ad8338efdf0cd16b3c7710fdf78100ff77d91d4f228a79f7715f772ef7a5fa15"
+  url "https://github.com/Azamatfg/thedrain/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "4d02a68fac5901f48c17fe36bf00dee9da29d15e17c103e5e988efcc386c85af"
   license "MIT"
   head "https://github.com/Azamatfg/thedrain.git", branch: "main"
 
